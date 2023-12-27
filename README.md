@@ -1,1 +1,3 @@
-# .github
+Hellooo...
+
+This is our repository for Hackfest 2024
