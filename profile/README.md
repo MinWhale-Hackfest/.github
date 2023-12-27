@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Hellooo...
+
+This is our repository for Hackfest 2024
+
 <!--
 
 **Here are some ideas to get you started:**
